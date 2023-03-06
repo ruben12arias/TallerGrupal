@@ -1,5 +1,5 @@
 ## How to Make Pizza? 
-1. alistar los ingredientes
-2. amasar la masa
-3.preparar la salsa
-4. preparar la piña 
+9. alistar los ingredientes
+10. amasar la masa
+11.preparar la salsa
+12. preparar la piña 
